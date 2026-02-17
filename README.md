@@ -10,3 +10,4 @@ Programs included:
 - positive_negative.py
 - number_table.py
 - even_odd.py
+- student-marks-analyzer.py
