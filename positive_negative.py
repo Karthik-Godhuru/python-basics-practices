@@ -1,10 +1,23 @@
-# Program to check whether a number is Positive or Negative
-# Author: Karthik Godhuru
+x = int(input("Enter a number: "))
+# Take integer input from the user.
+# Convert input (string) into integer using int().
 
-x=int(input("enter an number"))
 if x > 0:
-	print("positive")
+    # Check if number is greater than zero
+    
+    print("positive")
+    # If condition is True, number is positive
+
 elif x < 0:
-	print("negative")
-else :
-	print("zero")
+    # This block runs only if the first condition was False
+    # Check if number is less than zero
+    
+    print("negative")
+    # If condition is True, number is negative
+
+else:
+    # This block runs if both above conditions are False
+    # That means x is neither > 0 nor < 0
+    
+    print("zero")
+    # So number must be zero
