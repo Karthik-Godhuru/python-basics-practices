@@ -20,3 +20,14 @@ This program checks whether a password is strong based on:
 - At least one uppercase letter
 - At least one lowercase letter
 - At least one digit
+
+### Number Guessing Game
+
+This Python mini project demonstrates:
+
+- Random number generation using the random module
+- Loop control with a fixed number of attempts
+- Conditional branching (if-elif-else)
+- Early loop termination using break
+
+The player must guess a randomly generated number within three attempts.
