@@ -31,3 +31,28 @@ This Python mini project demonstrates:
 - Early loop termination using break
 
 The player must guess a randomly generated number within three attempts.
+
+# One Loop List Analyzer
+
+This project is a Python program that analyzes a list of numbers using a single loop.
+
+The program performs multiple calculations efficiently in one traversal of the list.
+
+## Features
+
+- Calculates total sum of numbers
+- Finds highest and lowest values
+- Counts even and odd numbers
+- Computes sum of even numbers
+- Computes sum of odd numbers
+
+## Key Concepts Used
+
+- For loops
+- Conditional statements
+- Modulus operator
+- Accumulator variables
+- Single-pass algorithm design (O(n) time complexity)
+
+## Author
+Karthik Godhuru
